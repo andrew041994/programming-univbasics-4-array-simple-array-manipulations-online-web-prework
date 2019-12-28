@@ -7,5 +7,5 @@ bouroughs_in_nyc.unshift(new_neighborhood)
 end
 
 def using_pop(continents)
-  continents.pop  
+  continents.pop
 end
